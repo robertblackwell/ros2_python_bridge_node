@@ -1,0 +1,1538 @@
+INFO:root:check_queue entered <__main__.PicoAgent object at 0x7f4228bad480> queue: 139922127901968
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <__main__.PicoAgent.EchoWQE object at 0x7f4228bad9c0> about to call echo
+INFO:root:Unsolicited message This is an unsolicicted message count[0]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[1]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[2]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[3]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[4]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[5]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[6]
+
+INFO:root:check_queue entered <__main__.PicoAgent object at 0x7f34200b0400> queue: 139861852619824
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[19]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[20]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[21]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[22]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[23]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[24]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[25]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[26]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[27]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[28]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[29]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[30]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[31]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[32]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[33]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[34]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[35]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[36]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[37]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[38]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[39]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[40]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[41]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[42]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[43]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[44]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[45]
+
+INFO:root:check_queue entered <__main__.PicoAgent object at 0x7efc35298400> queue: 139621688771632
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[47]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[48]
+
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <__main__.PicoAgent.EchoWQE object at 0x7efc35298040> about to call echo
+INFO:root:response to echo call  POK From Echo Text,for,echo,call
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[49]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[50]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[51]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[52]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[53]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[54]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[55]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[56]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[57]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[58]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[59]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[60]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[61]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[0]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[1]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[2]
+
+INFO:root:check_queue entered <__main__.PicoAgent object at 0x7fa3ac7a5750> queue: 140340950095552
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <__main__.PicoAgent.EchoWQE object at 0x7fa3ac7a5210> about to call echo
+INFO:root:response to echo call  POK From Echo Text,for,echo,call
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[8]
+
+INFO:root:check_queue entered <__main__.PicoAgent object at 0x7ff9e3b9d4b0> queue: 140711244191040
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[15]
+
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <__main__.PicoAgent.EchoWQE object at 0x7ff9e3b9db10> text: echo about to call echo
+INFO:root:response to echo call  POK From Echo Text,for,echo,call,text:,echo
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[16]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[17]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[18]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[19]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[20]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[21]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[22]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[23]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[24]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[25]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[26]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[27]
+
+INFO:root:check_queue entered <__main__.PicoAgent object at 0x7f38d9aa54b0> queue: 139882146714944
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[28]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[29]
+
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <__main__.PicoAgent.EchoWQE object at 0x7f38d9aa59f0> text: echo about to call echo
+INFO:root:response to echo call  POK From Echo Text,for,echo,call,Text:,[echo]
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[30]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[31]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[32]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[33]
+
+INFO:root:check_queue entered <__main__.PicoAgent object at 0x7f779ed3d4b0> queue: 140151742518592
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <__main__.PicoAgent.EchoWQE object at 0x7f779ed3d9f0> text: [echo] about to call echo
+INFO:root:response to echo call  POK From Echo Text,for,echo,call,Text:,[echo]
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[35]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[36]
+
+INFO:root:check_queue entered <__main__.PicoAgent object at 0x7fca26bcd9c0> queue: 140506210031776
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <__main__.PicoAgent.EchoWQE object at 0x7fca26bce140> text: [echo] about to call echo
+INFO:root:check_queue entered <__main__.PicoAgent object at 0x7f885afe8400> queue: 140223618909232
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[39]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[40]
+
+INFO:root:check_queue entered <__main__.PicoAgent object at 0x7f47556b4400> queue: 139944352498736
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[41]
+
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <__main__.PicoAgent.EchoWQE object at 0x7f475565ab30> text: [echo 987987979879879  iuyiuyiyiu  kjhkhkjhkjhk] about to call echo
+INFO:root:response to echo call  POK From Echo Text,for,echo,call,Text:,[echo,987987979879879,,iuyiuyiyiu,,kjhkhkjhkjhk]
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[42]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[43]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[44]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[45]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[46]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[47]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[48]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[49]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[50]
+
+INFO:root:check_queue entered <__main__.PicoAgent object at 0x7f71b5549510> queue: 140126350251424
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <__main__.PicoAgent.EchoWQE object at 0x7f71b5549a50> text: [echo 987987978 kjhkjhkj fdsfdsf] about to call echo
+INFO:root:response to echo call  POK From Echo Text,for,echo,call,Text:,[echo,987987978,kjhkjhkj,fdsfdsf]
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[0]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[1]
+
+INFO:root:check_queue entered <picoagent.pico_agent.PicoAgent object at 0x7fbfafb47700> queue: 140461263320736
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[0]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[1]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[2]
+
+INFO:root:check_queue entered <picoagent.pico_agent.PicoAgent object at 0x7fb00c3b3670> queue: 140394096178608
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[3]
+
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.pico_agent.PicoAgent.EchoWQE object at 0x7fb00c3b3c10> text: [echo 98797987 lkjlkjlk tretet] about to call echo
+INFO:root:response to echo call  POK From Echo Text,for,echo,call,Text:,[echo,98797987,lkjlkjlk,tretet]
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[4]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[5]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[6]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[7]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[8]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[9]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[10]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[11]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[12]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[13]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[14]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[15]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[16]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[17]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[18]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[19]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[20]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[21]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[22]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[23]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[24]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[25]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[26]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[27]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[28]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[29]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[30]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[31]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[32]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[33]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[34]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[35]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[36]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[37]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[38]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[39]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[40]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[41]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[42]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[43]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[44]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[45]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[46]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[47]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[48]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[49]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[50]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[51]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[52]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[53]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[54]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[55]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[56]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[57]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[58]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[59]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[60]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[61]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[62]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[63]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[64]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[65]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[66]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[67]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[68]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[69]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[70]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[71]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[72]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[73]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[74]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[75]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[76]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[77]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[78]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[79]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[80]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[81]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[82]
+
+INFO:root:host watchdog 1
+INFO:root:host watchdog 2  self: <picoagent.pico_agent.PicoAgent object at 0x7fb00c3b3670> queue: 140394096178608 qsize: 1
+INFO:root:host watchdog 2  self: <picoagent.pico_agent.PicoAgent object at 0x7fb00c3b3670> queue: 140394096178608 qsize: 2
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.pico_agent.PicoAgent.ReadEncodersWQE object at 0x7fb00c3b25c0> about to cli.read_encoder
+INFO:root:ENCODER_QENTRY: <picoagent.pico_agent.PicoAgent.ReadEncodersWQE object at 0x7fb00c3b25c0> finished cli.read_encoder
+INFO:root:read encoder reply [{"n":"nnnn","pwm":80.9,"ts":1234567,"miq":98765,"mr":6700.021,"wr":65.45,"sd":102.454,"ps":"F"},{"n":"nnnn","pwm":80.9,"ts":1234567,"miq":98765,"mr":6700.021,"wr":65.45,"sd":102.454,"ps":"F"}]
+INFO:root:left_rpm: 6700.021 right_rpm: 6700.021
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.pico_agent.PicoAgent.EchoWQE object at 0x7fb00c3b2620> text: [from watcher 2 0] about to call echo
+INFO:root:response to echo call  POK From Echo Text,for,echo,call,Text:,[from,watcher,2,0]
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[83]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[84]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[85]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[86]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[87]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[88]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[89]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[90]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[91]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[92]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[93]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[94]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[95]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[96]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[97]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[98]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[99]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[100]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[101]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[102]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[103]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[104]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[105]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[106]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[107]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[108]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[109]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[110]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[111]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[112]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[113]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[114]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[115]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[116]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[117]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[118]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[119]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[120]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[121]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[122]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[123]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[124]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[125]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[126]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[127]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[128]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[129]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[130]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[131]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[132]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[133]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[134]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[135]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[136]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[137]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[138]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[139]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[140]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[141]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[142]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[143]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[144]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[145]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[146]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[147]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[148]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[149]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[150]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[151]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[152]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[153]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[154]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[155]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[156]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[157]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[158]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[159]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[160]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[161]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[162]
+
+INFO:root:host watchdog 1
+INFO:root:host watchdog 2  self: <picoagent.pico_agent.PicoAgent object at 0x7fb00c3b3670> queue: 140394096178608 qsize: 1
+INFO:root:host watchdog 2  self: <picoagent.pico_agent.PicoAgent object at 0x7fb00c3b3670> queue: 140394096178608 qsize: 2
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.pico_agent.PicoAgent.ReadEncodersWQE object at 0x7fb00c3b2380> about to cli.read_encoder
+INFO:root:ENCODER_QENTRY: <picoagent.pico_agent.PicoAgent.ReadEncodersWQE object at 0x7fb00c3b2380> finished cli.read_encoder
+INFO:root:read encoder reply [{"n":"nnnn","pwm":80.9,"ts":1234567,"miq":98765,"mr":6700.021,"wr":65.45,"sd":102.454,"ps":"F"},{"n":"nnnn","pwm":80.9,"ts":1234567,"miq":98765,"mr":6700.021,"wr":65.45,"sd":102.454,"ps":"F"}]
+INFO:root:left_rpm: 6700.021 right_rpm: 6700.021
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.pico_agent.PicoAgent.EchoWQE object at 0x7fb00c3b25c0> text: [from watcher 2 1] about to call echo
+INFO:root:response to echo call  POK From Echo Text,for,echo,call,Text:,[from,watcher,2,1]
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[163]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[164]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[165]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[166]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[167]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[168]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[169]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[170]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[171]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[172]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[173]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[174]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[175]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[176]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[177]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[178]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[179]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[180]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[181]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[182]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[183]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[184]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[185]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[186]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[187]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[188]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[189]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[190]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[191]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[192]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[193]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[194]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[195]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[196]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[197]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[198]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[199]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[200]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[201]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[202]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[203]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[204]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[205]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[206]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[207]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[208]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[209]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[210]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[211]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[212]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[213]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[214]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[215]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[216]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[217]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[218]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[219]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[220]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[221]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[222]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[223]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[224]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[225]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[226]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[227]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[228]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[229]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[230]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[231]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[232]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[233]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[234]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[235]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[236]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[237]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[238]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[239]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[240]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[241]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[242]
+
+INFO:root:host watchdog 1
+INFO:root:host watchdog 2  self: <picoagent.pico_agent.PicoAgent object at 0x7fb00c3b3670> queue: 140394096178608 qsize: 1
+INFO:root:host watchdog 2  self: <picoagent.pico_agent.PicoAgent object at 0x7fb00c3b3670> queue: 140394096178608 qsize: 2
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.pico_agent.PicoAgent.ReadEncodersWQE object at 0x7fb00c3b0790> about to cli.read_encoder
+INFO:root:ENCODER_QENTRY: <picoagent.pico_agent.PicoAgent.ReadEncodersWQE object at 0x7fb00c3b0790> finished cli.read_encoder
+INFO:root:read encoder reply [{"n":"nnnn","pwm":80.9,"ts":1234567,"miq":98765,"mr":6700.021,"wr":65.45,"sd":102.454,"ps":"F"},{"n":"nnnn","pwm":80.9,"ts":1234567,"miq":98765,"mr":6700.021,"wr":65.45,"sd":102.454,"ps":"F"}]
+INFO:root:left_rpm: 6700.021 right_rpm: 6700.021
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.pico_agent.PicoAgent.EchoWQE object at 0x7fb00c3b2380> text: [from watcher 2 2] about to call echo
+INFO:root:response to echo call  POK From Echo Text,for,echo,call,Text:,[from,watcher,2,2]
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message This is an unsolicicted message count[243]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[244]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[245]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[246]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[247]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[248]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[249]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[250]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[251]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[252]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[253]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[254]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[255]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[256]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[257]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[258]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[259]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[260]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[261]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[262]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[263]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[264]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[265]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[266]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[267]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[268]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[269]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[270]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[271]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[272]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[273]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[274]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[275]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[276]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[277]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[278]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[279]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[280]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[281]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[282]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[283]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[284]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[285]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[286]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[287]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[288]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[289]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[290]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[291]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[292]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[293]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[294]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[295]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[296]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[297]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[298]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[299]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[300]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[301]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[302]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[303]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[304]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[305]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[306]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[307]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[308]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[309]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[310]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[311]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[312]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[313]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[314]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[315]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[316]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[317]
+
+INFO:root:Unsolicited message This is an unsolicicted message count[318]
+
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f824d087760> queue: 140197614876176
+INFO:root:Check work queue
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f91b8bbb280> queue: 140263846295776
+INFO:root:Check work queue
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f51959ed0f0> queue: 139988379291792
+INFO:root:Check work queue
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f88a07810f0> queue: 140224784502928
+INFO:root:Check work queue
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7fb835515990> queue: 140429145233712
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:TWIST_ENTRY
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7fc6b84b59f0> queue: 140491472198224
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.work.EchoWQE object at 0x7fc6b84b55d0> text: [echo this is some stuff] about to call echo
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7fad89d15ab0> queue: 140383318268496
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.work.EchoWQE object at 0x7fad89d15f00> text: [echo this is kjhkjhkjhkh] about to call echo
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7fa43e915ae0> queue: 140343401077376
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.work.EchoWQE object at 0x7fa43e915f30> text: [echo khkjhkh4232 22423] about to call echo
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f091aa1dae0> queue: 139677078248064
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.work.EchoWQE object at 0x7f091aa1df30> text: [echo 78686867] about to call echo
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7fc60611dae0> queue: 140488482085504
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.work.EchoWQE object at 0x7fc60611df30> text: [echo 1221211 8787878] about to call echo
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f221e21dae0> queue: 139784511150720
+INFO:root:Check work queue
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f9884b21ab0> queue: 140293038021200
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.work.EchoWQE object at 0x7f9884b21f00> text: [echo 545454 76767] about to call echo
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f10ec229ae0> queue: 139710657895040
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.work.EchoWQE object at 0x7f10ec229f30> text: [echo 5555 6666] about to call echo
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7fd7be715ae0> queue: 140564589795968
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:RPM_RAW_ENTRY
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f5b1b2141f0> queue: 140029273915984
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:RPM_RAW_ENTRY
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f8bcd519a50> queue: 140238421858800
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:RPM_RAW_ENTRY
+INFO:root:got some outofband data O
+INFO:root:got some outofband data K
+INFO:root:got some outofband data  
+INFO:root:got some outofband data E
+INFO:root:got some outofband data n
+INFO:root:got some outofband data d
+INFO:root:got some outofband data C
+INFO:root:got some outofband data o
+INFO:root:got some outofband data m
+INFO:root:got some outofband data m
+INFO:root:got some outofband data a
+INFO:root:got some outofband data n
+INFO:root:got some outofband data d
+INFO:root:got some outofband data 
+INFO:root:got some outofband data 
+
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f5b17614d90> queue: 140029211004400
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:RPM_RAW_ENTRY
+INFO:root:got some outofband data O
+INFO:root:got some outofband data K
+INFO:root:got some outofband data  
+INFO:root:got some outofband data E
+INFO:root:got some outofband data n
+INFO:root:got some outofband data d
+INFO:root:got some outofband data C
+INFO:root:got some outofband data o
+INFO:root:got some outofband data m
+INFO:root:got some outofband data m
+INFO:root:got some outofband data a
+INFO:root:got some outofband data n
+INFO:root:got some outofband data d
+INFO:root:got some outofband data 
+INFO:root:got some outofband data 
+
+INFO:root:outofband data queueing OK EndCommand
+
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f8549719a80> queue: 140210439559712
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:RPM_RAW_ENTRY
+DEBUG:root:host sent rpm 555.0 333.0
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f304ee14130> queue: 139845458542992
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:RPM_RAW_ENTRY
+DEBUG:root:host sent rpm 4343.0 7676.0
+INFO:root:RPM_RAW_ENTRY comlete resp: <picoagent.cli.CliErrorResponse object at 0x7f304ee01810>
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f5082104490> queue: 139983756215344
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:RPM_RAW_ENTRY
+DEBUG:root:host sent rpm 4545.0 333.0
+INFO:root:RPM_RAW_ENTRY comlete resp: <picoagent.cli.CliErrorResponse object at 0x7f5082104c10>
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f7348f21ab0> queue: 140133121792592
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:RPM_RAW_ENTRY
+DEBUG:root:host sent rpm 4343.0 7676.0
+INFO:root:RPM_RAW_ENTRY comlete resp: <picoagent.cli.CliErrorResponse object at 0x7f7348f22230>
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:got some outofband data t
+INFO:root:got some outofband data h
+INFO:root:got some outofband data i
+INFO:root:got some outofband data s
+INFO:root:got some outofband data  
+INFO:root:got some outofband data i
+INFO:root:got some outofband data s
+INFO:root:got some outofband data  
+INFO:root:got some outofband data a
+INFO:root:got some outofband data n
+INFO:root:got some outofband data  
+INFO:root:got some outofband data o
+INFO:root:got some outofband data u
+INFO:root:got some outofband data t
+INFO:root:got some outofband data o
+INFO:root:got some outofband data f
+INFO:root:got some outofband data b
+INFO:root:got some outofband data a
+INFO:root:got some outofband data n
+INFO:root:got some outofband data d
+INFO:root:got some outofband data  
+INFO:root:got some outofband data m
+INFO:root:got some outofband data e
+INFO:root:got some outofband data s
+INFO:root:got some outofband data s
+INFO:root:got some outofband data a
+INFO:root:got some outofband data g
+INFO:root:got some outofband data e
+INFO:root:got some outofband data  
+INFO:root:got some outofband data 
+INFO:root:got some outofband data 
+
+INFO:root:outofband data queueing b'this is an outofband message \r\n'
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7fab34823490> queue: 140373297083632
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fab34823040> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fab34823040> finished cli.read_encoder
+INFO:root:got some outofband data t
+INFO:root:got some outofband data h
+INFO:root:got some outofband data i
+INFO:root:got some outofband data s
+INFO:root:got some outofband data  
+INFO:root:got some outofband data i
+INFO:root:got some outofband data s
+INFO:root:got some outofband data  
+INFO:root:got some outofband data a
+INFO:root:got some outofband data n
+INFO:root:got some outofband data  
+INFO:root:got some outofband data o
+INFO:root:got some outofband data u
+INFO:root:got some outofband data t
+INFO:root:got some outofband data o
+INFO:root:got some outofband data f
+INFO:root:got some outofband data b
+INFO:root:got some outofband data a
+INFO:root:got some outofband data n
+INFO:root:got some outofband data d
+INFO:root:got some outofband data  
+INFO:root:got some outofband data m
+INFO:root:got some outofband data e
+INFO:root:got some outofband data s
+INFO:root:got some outofband data s
+INFO:root:got some outofband data a
+INFO:root:got some outofband data g
+INFO:root:got some outofband data e
+INFO:root:got some outofband data  
+INFO:root:got some outofband data 
+INFO:root:got some outofband data 
+
+INFO:root:outofband data queueing b'this is an outofband message \r\n'
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f1d82818d60> queue: 139764720307648
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f1d82818910> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f1d82818910> finished cli.read_encoder
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f7bb6220100> queue: 140169313386848
+INFO:root:Check work queue
+INFO:root:send_queue_entry <picoagent.work.EchoWQE object at 0x7f7bb620d510>
+INFO:root:_queue_command <picoagent.work.EchoWQE object at 0x7f7bb620d510>
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.work.EchoWQE object at 0x7f7bb620d510> text: [echo ttttttttt] about to call echo
+DEBUG:root:host sent echo Text for echo call Text: [echo ttttttttt]
+INFO:root:response to echo call  Unrecognizable string 
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:send_queue_entry <picoagent.work.EchoWQE object at 0x7f7bb620d810>
+INFO:root:_queue_command <picoagent.work.EchoWQE object at 0x7f7bb620d810>
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.work.EchoWQE object at 0x7f7bb620d810> text: [echo yyyyy] about to call echo
+DEBUG:root:host sent echo Text for echo call Text: [echo yyyyy]
+INFO:root:response to echo call  Unrecognizable string 
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7f7bb620d6f0>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7f7bb620d6f0>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f7bb620d6f0> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f7bb620d6f0> finished cli.read_encoder
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f655cd1dab0> queue: 140073325681232
+INFO:root:Check work queue
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7f655cd1df00>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7f655cd1df00>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f655cd1df00> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:Unsolicited message fillFromTokens default tag was : Error
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message Error: %s
+
+INFO:root:read_unsolicited_messages 
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f655cd1df00> finished cli.read_encoder
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f3b10b15ab0> queue: 139891659856464
+INFO:root:Check work queue
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7f3b10b15f00>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7f3b10b15f00>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f3b10b15f00> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:Unsolicited message ReadEncodersCommand number: 1
+
+INFO:root:read_unsolicited_messages 
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f3b10b15f00> finished cli.read_encoder
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message buffer length : 159
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message /**AA**/
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message [{'n': 'xx','ts':0,'miq':0.000,'mr':    0.000,'wr': 0.000,'sd':0.000, 'ps':'F'},{'n': 'xx','ts':0,'miq':0.000,'mr':    0.000,'wr': 0.000,'sd':0.000, 'ps':'F'}]
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message /**BB**/
+
+INFO:root:read_unsolicited_messages 
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7fe101121ab0> queue: 140604362332752
+INFO:root:Check work queue
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7fe101121f00>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7fe101121f00>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fe101121f00> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:Unsolicited message ReadEncodersCommand number: 1
+
+INFO:root:read_unsolicited_messages 
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fe101121f00> finished cli.read_encoder
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message buffer length : 159
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message /**AA**/
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message [{'n': 'xx','ts':0,'miq':0.000,'mr':    0.000,'wr': 0.000,'sd':0.000, 'ps':'F'},{'n': 'xx','ts':0,'miq':0.000,'mr':    0.000,'wr': 0.000,'sd':0.000, 'ps':'F'}]
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message /**BB**/
+
+INFO:root:read_unsolicited_messages 
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f4fac715ab0> queue: 139980172253776
+INFO:root:Check work queue
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7f4fac715f00>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7f4fac715f00>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f4fac715f00> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:Unsolicited message ReadEncodersCommand number: 1
+
+INFO:root:read_unsolicited_messages 
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f4fac715f00> finished cli.read_encoder
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message buffer length : 159
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message /**AA**/
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message [{'n': 'xx','ts':0,'miq':0.000,'mr':    0.000,'wr': 0.000,'sd':0.000, 'ps':'F'},{'n': 'xx','ts':0,'miq':0.000,'mr':    0.000,'wr': 0.000,'sd':0.000, 'ps':'F'}]
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message /**BB**/
+
+INFO:root:read_unsolicited_messages 
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7ff8d8f15a80> queue: 140706768312864
+INFO:root:Check work queue
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7ff8d8f15ed0>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7ff8d8f15ed0>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7ff8d8f15ed0> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:Unsolicited message ReadEncodersCommand number: 1
+
+INFO:root:read_unsolicited_messages 
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7ff8d8f15ed0> finished cli.read_encoder
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message buffer length : 159
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message /**AA**/
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message [{'n': 'xx','ts':0,'miq':0.000,'mr':    0.000,'wr': 0.000,'sd':0.000, 'ps':'F'},{'n': 'xx','ts':0,'miq':0.000,'mr':    0.000,'wr': 0.000,'sd':0.000, 'ps':'F'}]
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message /**BB**/
+
+INFO:root:read_unsolicited_messages 
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f1191b21ab0> queue: 139713435540048
+INFO:root:Check work queue
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7f1191b21f00>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7f1191b21f00>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f1191b21f00> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f1191b21f00> finished cli.read_encoder
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f59b7c29ab0> queue: 140023311800912
+INFO:root:Check work queue
+INFO:root:send_queue_entry <picoagent.work.EchoWQE object at 0x7f59b7c29f00>
+INFO:root:_queue_command <picoagent.work.EchoWQE object at 0x7f59b7c29f00>
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.work.EchoWQE object at 0x7f59b7c29f00> text: [echo rrrrrr] about to call echo
+DEBUG:root:host sent echo Text for echo call Text: [echo rrrrrr]
+INFO:root:Unsolicited message fillFromTokens default tag was : Error
+
+INFO:root:read_unsolicited_messages 
+INFO:root:response to echo call  Unrecognizable string 
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:send_queue_entry <picoagent.work.EchoWQE object at 0x7f59b7c2a230>
+INFO:root:_queue_command <picoagent.work.EchoWQE object at 0x7f59b7c2a230>
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.work.EchoWQE object at 0x7f59b7c2a230> text: [echo fdfdfd] about to call echo
+DEBUG:root:host sent echo Text for echo call Text: [echo fdfdfd]
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f773da1db10> queue: 140150111853232
+INFO:root:Check work queue
+INFO:root:send_queue_entry <picoagent.work.EchoWQE object at 0x7f773da1df60>
+INFO:root:_queue_command <picoagent.work.EchoWQE object at 0x7f773da1df60>
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.work.EchoWQE object at 0x7f773da1df60> text: [echo rrrrrr] about to call echo
+DEBUG:root:host sent echo Text for echo call Text: [echo rrrrrr]
+INFO:root:Unsolicited message fillFromTokens default tag was : Error
+
+INFO:root:read_unsolicited_messages 
+INFO:root:response to echo call  Unrecognizable string 
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f16ad115b10> queue: 139735369603760
+INFO:root:Check work queue
+INFO:root:send_queue_entry <picoagent.work.EchoWQE object at 0x7f16ad115f60>
+INFO:root:_queue_command <picoagent.work.EchoWQE object at 0x7f16ad115f60>
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.work.EchoWQE object at 0x7f16ad115f60> text: [echo 8888] about to call echo
+DEBUG:root:host sent echo Text for echo call Text: [echo 8888]
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7fb27e425ae0> queue: 140404599184000
+INFO:root:Check work queue
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7fb27e425f30>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7fb27e425f30>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fb27e425f30> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fb27e425f30> finished cli.read_encoder
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f3af6d15b10> queue: 139891225746096
+INFO:root:Check work queue
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7f3af6d15f60>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7f3af6d15f60>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f3af6d15f60> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f3af6d15f60> finished cli.read_encoder
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:send_queue_entry <picoagent.work.EchoWQE object at 0x7f3af6d161a0>
+INFO:root:_queue_command <picoagent.work.EchoWQE object at 0x7f3af6d161a0>
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7f3af6d163b0>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7f3af6d163b0>
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7f6ce381dae0> queue: 140105650133632
+INFO:root:Check work queue
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7f6ce381df30>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7f6ce381df30>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f6ce381df30> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7f6ce381df30> finished cli.read_encoder
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7f6ce381e170>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7f6ce381e170>
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:read_unsolicited_messages 
+INFO:root:check_queue entered <picoagent.pico_bridge.PicoBridge object at 0x7fc543114100> queue: 140485210489184
+INFO:root:Check work queue
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7fc543101540>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7fc543101540>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc543101540> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc543101540> finished cli.read_encoder
+INFO:root:ENCODER_QENTRY got an error response
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7fc5431018a0>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7fc5431018a0>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc5431018a0> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc5431018a0> finished cli.read_encoder
+INFO:root:ENCODER_QENTRY got an error response
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7fc543101540>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7fc543101540>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc543101540> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc543101540> finished cli.read_encoder
+INFO:root:ENCODER_QENTRY got an error response
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7fc5431018a0>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7fc5431018a0>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc5431018a0> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc5431018a0> finished cli.read_encoder
+INFO:root:ENCODER_QENTRY got an error response
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7fc543101540>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7fc543101540>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc543101540> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc543101540> finished cli.read_encoder
+INFO:root:ENCODER_QENTRY got an error response
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7fc543101780>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7fc543101780>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc543101780> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc543101780> finished cli.read_encoder
+INFO:root:ENCODER_QENTRY got an error response
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:send_queue_entry <picoagent.work.ReadEncodersWQE object at 0x7fc543101540>
+INFO:root:_queue_command <picoagent.work.ReadEncodersWQE object at 0x7fc543101540>
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc543101540> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc543101540> finished cli.read_encoder
+INFO:root:ENCODER_QENTRY got an error response
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:host watchdog 1
+INFO:root:host watchdog 2  self: <picoagent.pico_bridge.PicoBridge object at 0x7fc543114100> queue: 140485210489184 qsize: 1
+INFO:root:host watchdog 2  self: <picoagent.pico_bridge.PicoBridge object at 0x7fc543114100> queue: 140485210489184 qsize: 2
+INFO:root:Check work queue got one
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc5431019c0> about to cli.read_encoder
+DEBUG:root:host sent e
+INFO:root:ENCODER_QENTRY: <picoagent.work.ReadEncodersWQE object at 0x7fc5431019c0> finished cli.read_encoder
+INFO:root:ENCODER_QENTRY got an error response
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Check work queue got one
+INFO:root:ECHO_QENTRY: <picoagent.work.EchoWQE object at 0x7fc543101a20> text: [from watcher 2 0] about to call echo
+DEBUG:root:host sent echo Text for echo call Text: [from watcher 2 0]
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 
+INFO:root:Unsolicited message fillFromTokens default tag was : Error
+
+INFO:root:read_unsolicited_messages 
+INFO:root:response to echo call  Unrecognizable string 
+INFO:root:End of check workqueue if else chain
+INFO:root:Check work queue
+INFO:root:Unsolicited message this is an outofband message 
+
+INFO:root:read_unsolicited_messages 

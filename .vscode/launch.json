@@ -1,0 +1,46 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "env":{"PYTHONPATH":"${workspaceFolder}${pathSeparator}${cwd}${pathSeparator}${env:PYTHONPATH}"}
+
+        },
+        {
+            "name": "serial_bridget",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/serial_bridge/serial_bridge.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+
+        },
+        {
+            "name": "ros2 run serial_bridget",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/serial_bridge/serial_bridge.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "env":{"PYTHONPATH":"${workspaceFolder}:${cwd}/../:${env:PYTHONPATH}"}
+
+        },
+        {
+            "name": "test_bridge_main",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/serial_bridge/test_bridge_main.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "env":{"PYTHONPATH":"${workspaceFolder}:${cwd}:${env:PYTHONPATH}"}
+
+        },
+   ]
+}
